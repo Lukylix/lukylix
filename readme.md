@@ -13,7 +13,7 @@ I'm a passionate software engineer with a love for learning and exploring new te
 
 [Igni](https://github.com/Lukylix/Igni) is an Open-source interactive shutdown timer.
 
-<img src="./screenshot.png" alt="Igni Screenshot" width="150px">
+<img src="https://github.com/Lukylix/Igni/blob/master/screenshot.png?raw=true" alt="Igni Screenshot" width="150px">
 
 ## 🙌 Open for Collaboration
 

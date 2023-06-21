@@ -1,6 +1,7 @@
 # Hello, I'm Lukylix! 👋
 
-I'm a passionate software engineer with a love for learning and exploring new technologies. Lately, I've been particularly interested in electron apps programming.
+I'm a passionate software engineer with a love for learning and exploring new technologies.  
+Lately, I've been particularly interested in electron apps programming.
 
 ## 🛠️ Skills
 

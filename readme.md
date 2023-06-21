@@ -5,7 +5,7 @@ I'm a passionate software engineer with a love for learning and exploring new te
 ## 🛠️ Skills
 
 - Languages: JavaScript, C++,
-- Frameworks: React, Node.js, Electron
+- Frameworks: React, Node.js, Electron, Qwik
 - Databases: MongoDB, PostgreSQL, MySQL
 - Tools: Git, Docker, Jenkins
 

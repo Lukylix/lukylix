@@ -6,7 +6,7 @@ Lately, I've been particularly interested in electron apps programming.
 ## 🛠️ Skills
 
 - Languages: JavaScript, C++,
-- Frameworks: React, Node.js, Electron, Qwik
+- Frameworks: React, Next.js Node.js, Electron, Qwik
 - Databases: MongoDB, PostgreSQL, MySQL
 - Tools: Git, Docker, Jenkins
 

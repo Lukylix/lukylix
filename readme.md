@@ -22,6 +22,3 @@ I'm open to collaborating on [Igni](https://github.com/Lukylix/Igni) project or 
 
 dev.garcia.lucas@gmail.com
 
-## 📊 My GitHub Stats
-
-![My Github stats](https://github-readme-stats.vercel.app/api?username=lukylix&show_icons=true&theme=radical)

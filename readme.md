@@ -1,13 +1,13 @@
 # Hello, I'm Lukylix! 👋
 
-I'm a passionate software engineer with a love for learning and exploring new technologies.  
+I'm a passionate developper with a love for learning and exploring new technologies.  
 Lately, I've been particularly interested in electron apps programming.
 
 ## 🛠️ Skills
 
-- Languages: JavaScript, C++,
-- Frameworks: React, Next.js Node.js, Electron, Qwik
-- Databases: MongoDB, PostgreSQL, MySQL
+- Languages: JavaScript,
+- Frameworks: React, Next.js, Node.js, Electron, Qwik
+- Databases: Elasticsearch, MongoDB, SQL,
 - Tools: Git, Docker, Jenkins
 
 ## 👀 Checkout Ignit
